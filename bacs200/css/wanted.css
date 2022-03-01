@@ -1,5 +1,12 @@
 
 	
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>StyleSheet</title>
+    </head>
+
      header,table,h1,h2,footer,li  
       {
        text-decoration:underline;
