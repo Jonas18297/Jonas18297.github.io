@@ -33,3 +33,10 @@
         background-color: rgb(114, 66, 245);
         list-style-position:inside;
       }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
