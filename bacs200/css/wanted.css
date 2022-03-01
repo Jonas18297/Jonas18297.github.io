@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>StyleSheet</title>
-    </head>
+
 
      header,table,h1,h2,footer,li  
       {
@@ -31,9 +26,10 @@
         background-color: rgb(114, 66, 245);
         list-style-position:inside;
       }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+	.center 
+	{
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	}
 	
