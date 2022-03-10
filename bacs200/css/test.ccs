@@ -7,11 +7,20 @@
 	  @font-face
 	  {
 	  font-family:'LeagueSpartan';
-	  src:url('bacs200/css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype");
+	  src:url('bacs200/css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
 	  }
 	  label
 	  {
 	  font-family:'LeagueSpartan';
+	  }
+	  header
+	  {
+	  font-family:'Rubik';
+	  src:url('bacs200/css/font/Rubik-VariableFont_wght.ttf') format('truetype');
+	  }
+	  form
+	  {
+	  
 	  }
 	  </style>
   </head>
