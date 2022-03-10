@@ -18,7 +18,7 @@ h3
         text-decoration-line: bold;
         font-size:26pt;
         padding:10px;
-        font-family: fantasy;
+        font-family: Verdana;
     	}
 footer  
 	{
@@ -72,7 +72,7 @@ ul
 	}
 table
 	{
-	border: 1px solid; color: cadetblue
+	border: 1px solid; color: black;
 	}
 thead
 	{
