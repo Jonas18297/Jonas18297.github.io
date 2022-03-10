@@ -20,7 +20,8 @@
 	  }
 	  form
 	  {
-	  
+	  font-family:'LeagueSpartan';
+	  font-size: 10px;
 	  }
 	  </style>
   </head>
