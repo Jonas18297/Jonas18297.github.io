@@ -1,24 +1,20 @@
 	
 .implication
-
 {
 text-align: center;
 }
-
 header
 {
 background-color: green;
 font-size: 30px;
 }
-
 tfoot
 {
 background-color: #3f87a6;
 color: #fff;
 }
-
 h3 /*Alex Hart*/
-    {
+    	{
         text-decoration-line: underline;
         text-decoration-line: bold;
         font-size:26pt;
@@ -26,28 +22,28 @@ h3 /*Alex Hart*/
         border: thick solid #00ff00;
         background-color:#ff33cc;
         font-family: fantasy;
-    }
-
-footer {
-    font-size: 15pt;
-    color:gray;
-    font-style:italic;
-    font-family:Verdana, sans-serif;
-}
+    	}
+footer  
+	{
+    	font-size: 15pt;
+    	color:gray;
+    	font-style:italic;
+    	font-family:Verdana, sans-serif;
+	}
 
 em
-{
-border: 5px dashed silver;
-font size: 50pt;
-}
+	{
+	border: 5px dashed silver;
+	font size: 50pt;
+	}
 
-main
-{
-color: purple;
-font-family: Georgia (serif);
-font-weight: normal;
-font-style: normal
-}
+	main
+	{
+	color: purple;
+	font-family: Georgia (serif);
+	font-weight: normal;
+	font-style: normal
+	}
 
 th+td
 {
