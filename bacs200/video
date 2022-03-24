@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
     <h1>Github Setup</h1>
-    <video>Your Browser does not support this video type.
+    <video controls autoplay>Your Browser does not support this video type.
      <source src="bacs200/videos/githubsetup.mp4" type="video/mp4">
     </video>
   <body>
