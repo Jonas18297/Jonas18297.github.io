@@ -12,21 +12,6 @@ tfoot
 	{
 	background-color: bronze;
 	}
-h3
-    	{
-        text-decoration-line: underline;
-        text-decoration-line: bold;
-        font-size: 26pt;
-        padding: 10px;
-        font-family: Verdana;
-    	}
-footer  
-	{
-    	font-size: 15pt;
-    	color: black;
-    	font-style: italic;
-    	font-family: Verdana, sans-serif;
-	}
 em
 	{
 	border: 5px dashed bronze;
@@ -39,15 +24,11 @@ main
 	font-weight: normal;
 	font-style: normal;
 	}
-conclusion
-	{
-	text-color: gold;
-	}
 caption
 	{
     	text-align: left;
 	}
- 
+
 td
 	{
 	border: 1px solid #999;
@@ -126,15 +107,4 @@ header h1
 	font-size: 35pt;
 	text-decoration: underline;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	}
-h2+p::first-letter
-	{
-	color: black;
-	background-color: darkblue;
-	border-radius: 2px;
-	box-shadow: 3px 3px 0 gold;
-	font-size: 250%;
-	padding: 6px 3px;
-	margin-right: 6px;
-	float: left;
 	}
