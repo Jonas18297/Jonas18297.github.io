@@ -11,6 +11,8 @@
       header
       {
         font-size:30pt;
+	font-family: Verdana;
+	text-decoration-line: bold;
       }
       #wantedlist
       {
