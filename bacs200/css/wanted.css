@@ -47,3 +47,22 @@ a:hover
 {
 	color: yellow;
 }
+@font-face
+	  	{
+	  	font-family:'LeagueSpartan';
+	  	src:url('bacs200/css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	*
+	 	{
+	  	font-family:'LeagueSpartan';
+	  	}
+	  	header
+	  	{
+	  	font-family:'Rubik';
+	  	src:url('bacs200/css/font/Rubik-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	form
+	 	{
+	  	font-family:'LeagueSpartan';
+	  	font-size: 25px;
+	  	}
