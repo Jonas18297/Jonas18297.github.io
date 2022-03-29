@@ -50,7 +50,7 @@ a:hover
 @font-face
 	  	{
 	  	font-family:'LeagueSpartan';
-	  	src:url('bacs200/css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+	  	src:url('css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
 	  	}
 	  	*
 	 	{
@@ -59,7 +59,7 @@ a:hover
 	  	th
 	  	{
 	  	font-family:'Rubik';
-	  	src:url('bacs200/css/font/Rubik-VariableFont_wght.ttf') format('truetype');
+	  	src:url('css/font/Rubik-VariableFont_wght.ttf') format('truetype');
 	  	}
 	  	form
 	 	{
