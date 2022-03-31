@@ -13,18 +13,13 @@
 	font-family: Verdana;
 	text-decoration-line: bold;
       }
-      #wantedlist
-      {
-      font-size:20pt:
-      float:right:
-      }
       a href
       {
         text-align:center;
       }
       body
       {
-        background-color: rgb(114, 66, 245);
+        background-color: rgb(92, 48, 67);
         list-style-position:inside;
       }
 	.center 
