@@ -1,110 +1,67 @@
-	
-.implication
-	{
-	text-align: center;
-	}
-header
-	{
-	background-color: bronze;
-	font-size: 25px;
-	}
-tfoot
-	{
-	background-color: bronze;
-	}
-em
-	{
-	border: 5px dashed bronze;
-	font size: 50pt;
-	}
-main
-	{
-	color: black;
+
+     header,table,h1,h2,h3,footer,li  
+      {
+       text-decoration:underline;
+       text-align:center;
+       font-weight:bold;
+       text-decoration: underline;
+       text-indent:right;
+      }
+      header
+      {
+        font-size:30pt;
 	font-family: Verdana;
-	font-weight: normal;
-	font-style: normal;
-	}
-caption
+	text-decoration-line: bold;
+      }
+      #wantedlist
+      {
+      font-size:20pt:
+      float:right:
+      }
+      a href
+      {
+        text-align:center;
+      }
+      body
+      {
+        background-color: rgb(114, 66, 245);
+        list-style-position:inside;
+      }
+	.center 
 	{
-    	text-align: left;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 	}
 
-td
+	a:link
 	{
-	border: 1px solid #999;
-	padding: 0.5rem;
-	text-align: center;
+	color: white;
 	}
-
-mark
+	a:visited
 	{
-   	 background-color:rgb(170, 255, 0);
+	color: red;
 	}
-
-h1+h2 
+	a:hover
 	{
-    	text-align: center;
+	color: yellow;
 	}
-
-ul
-	{
-	font-size: 12px;
-	}
-table
-	{
-	border: 1px solid; color: black;
-	}
-thead
-	{
-	background-color: darkgreen;
-	vertical-align: bottom;
-	text-align: center;
-	}
-h1 
-	{
-	color: green;
-	font-family: arial, sans-serif;
-	font-size: 12px;
-	font-weight: bold;
-	margin-left: 0px;
-	margin-right: 4px;
-	}
-tbody
-	{
-   	background-color: #ff91a4;
-	}
-tbody
-	{
-    	text-align: center;
-    	margin: 10px;
-    	padding: 10px;
-    	border: 2px solid #000000; 
-	}
-
-t foot + td
-	{
- 	vertical-align: middle;
- 	border-color: darkred;
-	}
-* 
-	{
-	margin: 10px;
-	padding: 10px;
-	}
-img
-	{
-	max-width: 100%;
-	border-radius: 1rem;
-	}
-th
-	{
-    	margin-bottom: grey 10px;
-    	background-color: bronze;
-    	font-size: 40px;
-	}
-header h1
-	{
-	font-size: 35pt;
-	text-decoration: underline;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	}
+	@font-face
+	  	{
+	  	font-family:'LeagueSpartan';
+	  	src:url('css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	*
+	 	{
+	  	font-family:'LeagueSpartan';
+	  	}
+	  	th
+	  	{
+	  	font-family:'Rubik';
+	  	src:url('css/font/Rubik-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	form
+	 	{
+	  	font-family:'Rubik';
+	  	font-size: 25px;
+	  	}
