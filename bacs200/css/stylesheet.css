@@ -14,17 +14,17 @@
 	text-decoration-line: bold;
       }
 	p
-{
+	{
 	text-align:center;
-	
-}
+	text-indent:right;
+	}
       a href
       {
         text-align:center;
       }
       body
       {
-        background-color: rgb(92, 48, 67);
+        background-color: rgb(92, 48, 68);
         list-style-position:inside;
       }
 	.center 
