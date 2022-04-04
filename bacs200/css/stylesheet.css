@@ -2,11 +2,12 @@
      header,table,h1,h2,h3,footer,li
       {
        text-decoration:underline;
-       text-align:center;
+       text-align:left;
        font-weight:bold;
        text-decoration: underline;
        text-indent:right;
-	color: rgb(184,132,36);
+       color: rgb(184,132,36);
+       margin:auto;
       }
       header
       {
