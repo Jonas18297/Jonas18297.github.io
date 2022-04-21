@@ -1,7 +1,11 @@
 <style>
-	h2, h3, ul, li, em, b, p
-	{
-		text-align: center;
-		margin: auto;
-	}
+h2, h3, ul, li, em, b, p
+{
+	text-align: center;
+	margin: auto;
+}
+p.double
+{
+	border-style: double;
+}
 </style>
