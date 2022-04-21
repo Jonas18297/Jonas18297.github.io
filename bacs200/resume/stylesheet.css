@@ -12,4 +12,8 @@ p.double
 {
 	border-style: double;
 }
+ul
+{
+	padding-left: 50px;
+}
 
