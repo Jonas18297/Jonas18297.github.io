@@ -4,6 +4,10 @@ h2, h3, ul, li, em, b, p
 	text-align: center;
 	margin: auto;
 }
+h2
+{
+	border-style: double
+}
 p.double
 {
 	border-style: double;
