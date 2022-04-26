@@ -24,11 +24,10 @@ p.double
 }
 li
 	{
-       text-align: left;
-       font-weight: bold;
- 	   text-indent: right;
-	   margin: auto;
-	   width: 54%;
+        text-align: left;
+        font-weight: bold;
+	margin: auto;
+	width: 54%;
 	}
 body
       {
