@@ -34,3 +34,22 @@ body
         background-color: rgb(224, 217, 188);
         list-style-position:inside;
       }
+@font-face
+	  	{
+	  	font-family:'LeagueSpartan';
+	  	src:url('css/font/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	*
+	 	{
+	  	font-family:'LeagueSpartan';
+	  	}
+	  	th
+	  	{
+	  	font-family:'Rubik';
+	  	src:url('css/font/Rubik-VariableFont_wght.ttf') format('truetype');
+	  	}
+	  	form
+	 	{
+	  	font-family:'Rubik';
+	  	font-size: 25px;
+	  	}
